@@ -1,5 +1,3 @@
-# support-tooling
-HWX Private Support tooling repo
 
 ## Ambari Config comparison Scripts
 
